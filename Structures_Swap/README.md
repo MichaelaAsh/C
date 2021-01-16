@@ -1,0 +1,1 @@
+This program demontrates simple structures, swap and random numbers
