@@ -1,2 +1,2 @@
 # Overview 
-This repository consists of simple C programs that are useful
+This repository consists of simple C functions that are useful
